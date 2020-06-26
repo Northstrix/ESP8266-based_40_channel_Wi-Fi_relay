@@ -18,6 +18,7 @@ It's not a dimmer. Each channel has only two states "ON" and "OFF".<br>
 <br>
 First LED isn't used, second LED is a first channel, third LED is a second channel, etc.
 <br>
+<br>
 You can find instructions on building a light activated switch here:
 <br>
 https://www.circuitspedia.com/light-activated-dark-activated-switch-without-relay-using-triac/
