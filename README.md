@@ -20,4 +20,5 @@ You can find instructions on building a light activated switch here:
 https://www.circuitspedia.com/light-activated-dark-activated-switch-without-relay-using-triac/
 <br>
 Attention: I don't own anything from circuitspedia.com. I just provided you with a link to an external source.
+<br>
 All of the material related to "Light Activated Switch Without Relay" belongs to circuitspedia.com
