@@ -6,11 +6,10 @@ To build this device you need:
 2) WS2812 LED's x41
 3) Resistor 510 ohm x1
 4) Light activated switch x40
-5) Power source(s) that can provide 9 volts for switches as well as supply ESP8266 (3.3V or 5V)
+5) Power source(s) that can provide 9 volts for switches as well as supply ESP8266 (5V)
 
-Note: If you're using 5 volts power supply then you should put "+" of your power supply to the "Vin" pin.<br>
-If you're using 3.3 volts power supply then put "+" of your power supply to the "3V3" pin.<br>
-In both cases you have to put "-" of your power supply to the "GND" pin.<br>
+Note: If you're not using USB cable tosupply ESP8266 then you should put "+" of your power supply to the "Vin" pin.<br>
+And don't forget to put "-" of your power supply to the "GND" pin.<br>
 <br>
 The state of each channel is individually controlled and completely independent from one another.<br>
 <br>
