@@ -6,7 +6,7 @@ To build this device you need:
 2) WS2812 LED's x41
 3) Resistor 510 ohm x1
 4) Light activated switch x40
-5) Power source(s) that can provide 9 volts and enough current for relays as well as supply ESP8266 (3.3V or 5V)
+5) Power source(s) that can provide 9 volts for switches as well as supply ESP8266 (3.3V or 5V)
 
 Note: If you're using 5 volts power supply then you should put "+" of your power supply to the "Vin" pin.<br>
 If you're using 3.3 volts power supply then put "+" of your power supply to the "3V3" pin.<br>
