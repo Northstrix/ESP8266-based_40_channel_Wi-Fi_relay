@@ -638,7 +638,7 @@ void loop(){
   client.print("<table style=""width:100%"" text-align: center;>"); // Creating a table to store all the elements
   client.print("  <tr>");
   client.print("  <th>");
-  client.print("<p>ESP8266-based 9 channel Wi-Fi relay</p>");
+  client.print("<p>ESP8266-based 40 channel Wi-Fi relay</p>");
   client.print("<p>Developed by Maxim Bortnikov</p>");
   client.print("<p>For more information visit: https://github.com/Northstrix/ESP8266-based-9-channel-Wi-Fi-relay </p>");
   client.print("  </th>");
