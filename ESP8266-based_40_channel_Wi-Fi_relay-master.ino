@@ -624,7 +624,7 @@ void loop(){
   client.println("<html>");
   client.println("<meta charset=\"utf-8\">");
   client.println("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">");
-  client.println("<title>ESP8266-based 9 channel Wi-Fi relay</title>"); // The name of the web page
+  client.println("<title>ESP8266-based 40 channel Wi-Fi relay</title>"); // The name of the web page
   client.println("<head> ");
   client.print("<style>");
   client.print("   body{");
@@ -640,7 +640,7 @@ void loop(){
   client.print("  <th>");
   client.print("<p>ESP8266-based 40 channel Wi-Fi relay</p>");
   client.print("<p>Developed by Maxim Bortnikov</p>");
-  client.print("<p>For more information visit: https://github.com/Northstrix/ESP8266-based-9-channel-Wi-Fi-relay </p>");
+  client.print("<p>For more information visit: https://github.com/Northstrix/ESP8266-based_40_channel_Wi-Fi_relay </p>");
   client.print("  </th>");
   client.print("  </tr>");
   client.print("  <tr>");
